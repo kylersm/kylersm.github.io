@@ -53,8 +53,6 @@
       ]
     }
   ],
-  "volunteer": [
-  ],
   "awards": [
     {
       "title": "First place for high/middle schools",
@@ -62,7 +60,5 @@
       "awarder": "Hawaii Annual Code Challenge",
       "summary": "Our team won first place in 2023. See my portfolio site for more details."
     }
-  ],
-  "references": [
   ]
 }
